@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# 编译产物
+out/
+target/
+build/
+*.class
+
+# 命令行编译时生成的源文件列表（Windows）
+sources.txt
+
+# 账本数据文件（后续版本会生成）
+data/
+
+# 日志与崩溃报告
+*.log
+hs_err_pid*
+
+# 系统文件
+.DS_Store
+Thumbs.db
